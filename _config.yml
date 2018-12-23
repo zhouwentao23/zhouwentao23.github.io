@@ -1,13 +1,13 @@
 # Site settings
-name: zhouwentao
+name: 周文涛
 email: im.zhouwentao@hotmail.com
 author: zhouwentao
-url: https://zhouwentao23.github.io/
+url: https://尝试加载css/
 resume_site: https://zhouwentao23.github.io/
 github: https://github.com/zhouwentao23
-baseurl: ".."
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+baseurl: "/zhouwentao23.github.io"
+description: 人生可以暂时苟且，但不能忘了诗和远方
+meta_description: 周文涛;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
