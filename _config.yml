@@ -8,11 +8,11 @@ github: https://github.com/zhouwentao23
 baseurl: "/zhouwentao23.github.io"
 description: 人生可以暂时苟且，但不能忘了诗和远方
 meta_description: 周文涛;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
+motto: 让我变聪明就是下面这篇文章了.
 banner: 学而不思则罔，思而不学则殆。
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
+#permalink: /:year/:month/:day/:title/
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
